@@ -1,4 +1,4 @@
 # Front-end
 PROJETOS SERRATEC
 
-Criação de Curriculo.
+Criação do meu curriculo, desenvolvivo na aula do Serratec de Front-end.
